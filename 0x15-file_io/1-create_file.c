@@ -3,9 +3,11 @@
  * create_file - Creates a file.
  *
  * @filename: The name of the file to create.
- * @text_content: The text content to write to the file.
+ * @text_content: The text content to write to the file
  *
- * Returns: 1 on success, -1 on failure.
+ *  Return: If the function fails - -1.
+ *
+ *         Otherwise - 1.
  *
  * 1: The file was created successfully.
  *
